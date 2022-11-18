@@ -21,7 +21,7 @@
     "react-jsonschema-form-bs4": "^1.7.1",
     "react-jsonschema-form-theme-bs4": "^1.0.0",
     "webpack": "^4.39.3",
-    "webpack-cli": "^3.3.7",
+    "webpack-cli": "^3.3.12",
     "webpack-merge": "^4.2.1"
   },
   "devDependencies": {
